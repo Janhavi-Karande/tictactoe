@@ -27,4 +27,8 @@ A command-line Tic-Tac-Toe game built using Java with MVC architecture and desig
    			java -cp bin Main
 3. Play the Game!
    
-     Follow the on-screen instructions in the terminal.
+   - Follow the on-screen instructions in the terminal.
+   - If playing against bot, choose a difficulty level.
+   - Use the undo option if needed while playing with the bot.
+   - The game ends when there is a winner or a draw.
+   

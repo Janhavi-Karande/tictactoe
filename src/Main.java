@@ -5,8 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -69,8 +67,6 @@ public class Main {
             gameController.printBoard(game);
 
                 // ask player if they want to undo
-
-
                 System.out.println("Do you want to undo(y/n):");
                 String isUndo = sc.next();
 
@@ -97,6 +93,6 @@ public class Main {
         }
 
         gameController.printBoard(game);
-        System.out.println("DEBUG");
+       
     }
 }

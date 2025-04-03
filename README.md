@@ -3,13 +3,13 @@ Tic-Tac-Toe Game 🎮
 A command-line Tic-Tac-Toe game built using Java with MVC architecture and design patterns to ensure clean and maintainable code.
 
  Features
-- 🤖 Bot Player: A bot can play as the opponent if there's only one human player.
-- 🎚️ Bot Difficulty Levels: Choose between Easy and Hard modes.
-- 🔄 Custom Symbols: Human players can select their symbols.
-- 🖥️ Command-Line Interface: Play directly from the terminal.
-- 🔧 Single Bot per Game: Only one bot player is allowed per game.
-- 🏗️ MVC Architecture: Ensures separation of concerns for better code management.
-- 🎨 Design Patterns: Implemented where necessary to enhance maintainability and flexibility.
+-  Bot Player: A bot can play as the opponent if there's only one human player.
+-  Bot Difficulty Levels: Choose between Easy and Hard modes.
+-  Custom Symbols: Human players can select their symbols.
+-  Command-Line Interface: Play directly from the terminal.
+-  Single Bot per Game: Only one bot player is allowed per game.
+-  MVC Architecture: Ensures separation of concerns for better code management.
+-  Design Patterns: Implemented where necessary to enhance maintainability and flexibility.
 
  Technologies Used
 - Java 

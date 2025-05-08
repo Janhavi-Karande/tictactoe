@@ -33,7 +33,7 @@ Follow these instructions to get the Tic-Tac-Toe game running on your local mach
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Janhavi-Karande/tictactoe.git](https://github.com/Janhavi-Karande/tictactoe.git)
+    git clone https://github.com/Janhavi-Karande/tictactoe.git
     cd tictactoe
     ```
 
